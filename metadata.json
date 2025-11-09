@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Gestão de Equipes - Indicadores de Performance",
+  "description": "Acompanhe em tempo real o desempenho da sua equipe, identifique pontos de melhoria e reconheça os melhores resultados com dados inteligentes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
